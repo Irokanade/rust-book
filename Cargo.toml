@@ -1,0 +1,14 @@
+[workspace]
+resolver = "3"
+members = [
+    "enums",
+    "functions",
+    "guessing_game",
+    "hello_cargo",
+    "loops",
+    "ownership",
+    "rectangles",
+    "references",
+    "structs",
+    "variables",
+]

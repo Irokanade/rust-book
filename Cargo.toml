@@ -4,7 +4,7 @@ members = [
     "enums",
     "functions",
     "guessing_game",
-    "hello_cargo", "ifs",
+    "hello_cargo",
     "loops", "matches",
     "ownership",
     "rectangles",
